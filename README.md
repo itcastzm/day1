@@ -66,3 +66,28 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+
+
+
+***	声明式的方式听的不是很懂，早上hello word的做法也不是很了解
+```
+return(
+    <h3>HelloWorld</h3>
+)
+```
+***	老师，如果面试官问你Vue和react的区别以及他们的优缺点，你该如何回答？
+区别：
+    1. Vue 实现了双向数据绑定   React单向数据流
+    2. Vue和React粉丝使用者分布  技术选型前三点
+优缺点：
+    1. Vue开发模式或者最佳实践比较稳定  因此开发效率比较高
+    2. React 跟原生js联系比较紧密  解决问题的方式比较多样
+***	讲的时候觉得很简单，一到做作业全不会
+    讲作业的时候讲
+***	老师能教下,上班怎么摸鱼（偷懒）吗?
+    1. 修炼自己的技术 达到整个公司技术第一
+    2. 自己技术没有那么牛  情商
